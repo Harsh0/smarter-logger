@@ -1,5 +1,5 @@
 {
-    "name": "smart-logger",
+    "name": "smarter-logger",
     "version": "1.0.0",
     "description": "A Smart logger which provides way to manage concurrency to avoid load on server",
     "main": "lib/index.js",
@@ -17,7 +17,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Harsh0/smart-logger.git"
+        "url": "git+https://github.com/Harsh0/smarter-logger.git"
     },
     "keywords": [
         "Logger",
@@ -31,9 +31,9 @@
     },
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Harsh0/smart-logger/issues"
+        "url": "https://github.com/Harsh0/smarter-logger/issues"
     },
-    "homepage": "https://github.com/Harsh0/smart-logger#readme",
+    "homepage": "https://github.com/Harsh0/smarter-logger#readme",
     "devDependencies": {
         "@types/jest": "^26.0.23",
         "jest": "^27.0.5",
